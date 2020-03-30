@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.cbinarycastle.ArrayListTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-03-31T15:19:55" hostname="BeINone" time="0.049">
+  <properties/>
+  <testcase name="whenAddAllThenSuccess()" classname="io.github.cbinarycastle.ArrayListTests" time="0.024"/>
+  <testcase name="whenRemoveThenSuccess()" classname="io.github.cbinarycastle.ArrayListTests" time="0.007"/>
+  <testcase name="whenSetThenSuccess()" classname="io.github.cbinarycastle.ArrayListTests" time="0.001"/>
+  <testcase name="whenSetToInvalidIndexThenIndexOutOfBoundException()" classname="io.github.cbinarycastle.ArrayListTests" time="0.003"/>
+  <testcase name="whenSizeThenSuccess()" classname="io.github.cbinarycastle.ArrayListTests" time="0.001"/>
+  <testcase name="whenAddAllOverDefaultSizeThenSuccess()" classname="io.github.cbinarycastle.ArrayListTests" time="0.002"/>
+  <testcase name="whenGetThenSuccess()" classname="io.github.cbinarycastle.ArrayListTests" time="0.003"/>
+  <testcase name="whenAddThenSuccess()" classname="io.github.cbinarycastle.ArrayListTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
